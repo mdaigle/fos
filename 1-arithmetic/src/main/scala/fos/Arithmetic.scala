@@ -1,7 +1,5 @@
 package fos
 
-import com.sun.tools.javac.code.Type.ForAll
-
 import scala.util.parsing.combinator.syntactical.StandardTokenParsers
 import scala.util.parsing.input._
 
